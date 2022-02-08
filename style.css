@@ -3,11 +3,12 @@
 }
 
 body {
-  color: #8bacda;
-  background-color: #0d192b;
+  color: #8BACDA;
+  background-color: #0D192B;
   margin: 0;
   font-family: 'Outfit', sans-serif;
   font-size: 18px;
+  /* margin-top: 50px; */
 }
 
 a {
@@ -15,6 +16,38 @@ a {
   text-decoration: none;
 }
 
-.card {
+/* NFT Card style */
 
+/* .container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin: 50px auto;
+} */
+
+.card {
+  width: 350px;
+  background-color: #14253D;
+  border-radius: 15px;
+  padding: 25px;
+  margin: 50px auto;
+  /* box-shadow:  */
+}
+
+.card-img {
+  display: block;
+  border-radius: 15px;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+/* Other styles */
+
+.attribution {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
