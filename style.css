@@ -64,12 +64,30 @@ margin: 0;
   font-weight: 300;
 }
 
-.info-price {
-  color: #00FFF7;
+.card-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.info-timer {
+.card-info img {
+  margin: 0 8px 0 0;
+}
+
+.card-info p {
+  margin: 0;
+}
+
+.card-info .info-price {
+  color: #00FFF7;
+  display: flex;
+  align-items: center;
+}
+
+.card-info .info-timer {
   font-weight: 300;
+  display: flex;
+  align-items: center;
 }
 
 .card-author {
