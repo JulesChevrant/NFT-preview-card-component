@@ -47,6 +47,35 @@ a:hover {
   max-width: 100%;
 }
 
+.card-body {
+  padding: 22px 0;
+  border-bottom: 1px solid #2F415B;
+}
+
+.card-title {
+font-size: 22px;
+font-weight: 600;
+/* margin-bottom: 20px;
+margin-top: 20px; */
+margin: 0;
+}
+
+.card-text {
+  font-weight: 300;
+}
+
+.info-price {
+  color: #00FFF7;
+}
+
+.info-timer {
+  font-weight: 300;
+}
+
+.card-author {
+  font-weight: 300;
+}
+
 /* Other styles */
 
 .attribution {
