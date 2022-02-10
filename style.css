@@ -20,6 +20,10 @@ a:hover {
   color: #00FFF7;
 }
 
+p {
+  margin: 0;
+}
+
 /* NFT Card style */
 
 /* .container {
@@ -55,13 +59,12 @@ a:hover {
 .card-title {
 font-size: 22px;
 font-weight: 600;
-/* margin-bottom: 20px;
-margin-top: 20px; */
 margin: 0;
 }
 
 .card-text {
   font-weight: 300;
+  margin: 18px 0;
 }
 
 .card-info {
@@ -74,14 +77,11 @@ margin: 0;
   margin: 0 8px 0 0;
 }
 
-.card-info p {
-  margin: 0;
-}
-
 .card-info .info-price {
   color: #00FFF7;
   display: flex;
   align-items: center;
+  font-size: 16px;
 }
 
 .card-info .info-timer {
@@ -92,6 +92,17 @@ margin: 0;
 
 .card-author {
   font-weight: 300;
+  display: flex;
+  align-items: center;
+  padding: 18px 0 6px;
+}
+
+.card-author img {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  margin-right: 15px;
+  border: 1px solid white;
 }
 
 /* Other styles */
