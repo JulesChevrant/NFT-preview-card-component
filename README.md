@@ -17,10 +17,3 @@ Users should be able to:
 
 - Solution URL: https://github.com/JulesChevrant/NFT-preview-card-component
 - Live Site URL: https://juleschevrant.github.io/NFT-preview-card-component/
-
-## Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
