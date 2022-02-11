@@ -11,7 +11,7 @@ Users should be able to:
 
 ## Screenshot
 
-(./images/nft-preview-card.jpg)
+![Screenshot of my solution of the NFT preview card challenge](./images/nft-preview-card.jpg)
 
 ## Links
 
