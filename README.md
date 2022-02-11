@@ -11,7 +11,7 @@ Users should be able to:
 
 ## Screenshot
 
-./images/nft-preview-card.jpg
+(./images/nft-preview-card.jpg)
 
 ## Links
 
