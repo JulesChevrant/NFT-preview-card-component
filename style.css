@@ -43,6 +43,7 @@ p {
 }
 
 .card-image-container {
+  display: block;
   position: relative;
   border-radius: 15px;
   overflow: hidden;
